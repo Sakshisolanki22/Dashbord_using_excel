@@ -58,6 +58,22 @@ This interactive Excel dashboard provides a comprehensive overview of a fictiona
 - Shipping preferences include First Class, Second Class, Same Day, and Standard Class.
 
 - Year filter highlights 2015 as a focus point.
+## Technique
+- Techniques Used to Create the Dashboard:
+1. Pivot Tables – Used for summarizing metrics by category, year, region, etc.
 
+2. Pivot Charts – Visualizing data trends through bar, pie, and donut charts.
+
+3. Slicers – Interactive buttons for filtering data by ship mode, market, order priority, and year.
+
+4. Timeline Filter – For dynamic date filtering.
+
+5. Conditional Formatting – Applied to highlight key metrics.
+
+6. Excel Formulas – Possibly used for calculating KPIs like profit margins, total quantity, etc.
+
+7. Data Modeling – Basic relational data structure to link orders, regions, and categories.
+
+8. Custom Layout Design – Using Excel shapes, color formatting, and layout tools for a professional visual appearance.
 
 
