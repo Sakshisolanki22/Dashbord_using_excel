@@ -75,7 +75,7 @@ This interactive Excel dashboard provides a comprehensive overview of a fictiona
 7. Data Modeling – Basic relational data structure to link orders, regions, and categories.
 
 8. Custom Layout Design – Using Excel shapes, color formatting, and layout tools for a professional visual appearance.
-   
-<a herf="![Screenshot (507)](https://github.com/user-attachments/assets/e888efe5-df8d-444d-bd92-7c7a0a43f671)"></a> 
+## Dashboard
+![Screenshot (507)](https://github.com/user-attachments/assets/e888efe5-df8d-444d-bd92-7c7a0a43f671) 
 
 
