@@ -61,6 +61,7 @@ This interactive Excel dashboard provides a comprehensive overview of a fictiona
 ## Technique
 - Techniques Used to Create the Dashboard:
 1. Pivot Tables – Used for summarizing metrics by category, year, region, etc.
+![Screenshot (508)](https://github.com/user-attachments/assets/9f8d21dc-f3d7-47d1-a7ae-d1a6f2831255)
 
 2. Pivot Charts – Visualizing data trends through bar, pie, and donut charts.
 
